@@ -1,0 +1,212 @@
+{
+  "banned_words": [
+    {
+      "word": "accessible",
+      "category": "Inclusive language",
+      "departments": ["Multiple"],
+      "date_reported": "2023-02-15",
+      "source": "Example Source 1",
+      "context": "Used in accessibility guidelines"
+    },
+    {
+      "word": "activism",
+      "category": "Political terminology",
+      "departments": ["HHS", "DOI"],
+      "date_reported": "2022-11-10",
+      "source": "Example Source 2",
+      "context": "Internal communications directive"
+    },
+    {
+      "word": "activists",
+      "category": "Political terminology",
+      "departments": ["HHS", "DOI"],
+      "date_reported": "2022-11-10",
+      "source": "Example Source 2",
+      "context": "Internal communications directive"
+    },
+    {
+      "word": "advocacy",
+      "category": "Political terminology",
+      "departments": ["Multiple"],
+      "date_reported": "2022-11-10",
+      "source": "Example Source 2",
+      "context": "Internal communications directive"
+    },
+    {
+      "word": "advocate",
+      "category": "Political terminology",
+      "departments": ["Multiple"],
+      "date_reported": "2022-11-10",
+      "source": "Example Source 2",
+      "context": "Internal communications directive"
+    },
+    {
+      "word": "advocates",
+      "category": "Political terminology",
+      "departments": ["Multiple"],
+      "date_reported": "2022-11-10",
+      "source": "Example Source 2",
+      "context": "Internal communications directive"
+    },
+    {
+      "word": "affirming care",
+      "category": "LGBTQ+ terminology",
+      "departments": ["HHS"],
+      "date_reported": "2022-09-18",
+      "source": "Example Source 3",
+      "context": "Healthcare communications"
+    },
+    {
+      "word": "all-inclusive",
+      "category": "DEI terminology",
+      "departments": ["Multiple"],
+      "date_reported": "2022-10-05",
+      "source": "Example Source 4",
+      "context": "Policy documents"
+    },
+    {
+      "word": "allyship",
+      "category": "DEI terminology",
+      "departments": ["Multiple"],
+      "date_reported": "2022-10-05",
+      "source": "Example Source 4",
+      "context": "Internal communications"
+    },
+    {
+      "word": "anti-racism",
+      "category": "DEI terminology",
+      "departments": ["DOE"],
+      "date_reported": "2022-08-30",
+      "source": "Example Source 5",
+      "context": "Educational materials"
+    },
+    {
+      "word": "antiracist",
+      "category": "DEI terminology",
+      "departments": ["DOE"],
+      "date_reported": "2022-08-30",
+      "source": "Example Source 5",
+      "context": "Educational materials"
+    },
+    {
+      "word": "assigned at birth",
+      "category": "LGBTQ+ terminology",
+      "departments": ["HHS"],
+      "date_reported": "2022-09-18",
+      "source": "Example Source 3",
+      "context": "Healthcare communications"
+    },
+    {
+      "word": "assigned female at birth",
+      "category": "LGBTQ+ terminology",
+      "departments": ["HHS"],
+      "date_reported": "2022-09-18",
+      "source": "Example Source 3",
+      "context": "Healthcare communications"
+    },
+    {
+      "word": "assigned male at birth",
+      "category": "LGBTQ+ terminology",
+      "departments": ["HHS"],
+      "date_reported": "2022-09-18",
+      "source": "Example Source 3",
+      "context": "Healthcare communications"
+    },
+    {
+      "word": "at risk",
+      "category": "Social policy terminology",
+      "departments": ["Multiple"],
+      "date_reported": "2022-10-05",
+      "source": "Example Source 4",
+      "context": "Policy documents"
+    },
+    {
+      "word": "barrier",
+      "category": "Social policy terminology",
+      "departments": ["Multiple"],
+      "date_reported": "2022-10-05",
+      "source": "Example Source 4",
+      "context": "Policy documents"
+    },
+    {
+      "word": "barriers",
+      "category": "Social policy terminology",
+      "departments": ["Multiple"],
+      "date_reported": "2022-10-05",
+      "source": "Example Source 4",
+      "context": "Policy documents"
+    },
+    {
+      "word": "belong",
+      "category": "DEI terminology",
+      "departments": ["Multiple"],
+      "date_reported": "2022-10-05",
+      "source": "Example Source 4",
+      "context": "Internal communications"
+    },
+    {
+      "word": "bias",
+      "category": "DEI terminology",
+      "departments": ["Multiple"],
+      "date_reported": "2022-10-05",
+      "source": "Example Source 4",
+      "context": "Internal communications"
+    },
+    {
+      "word": "biased",
+      "category": "DEI terminology",
+      "departments": ["Multiple"],
+      "date_reported": "2022-10-05",
+      "source": "Example Source 4",
+      "context": "Internal communications"
+    },
+    {
+      "word": "biased toward",
+      "category": "DEI terminology",
+      "departments": ["Multiple"],
+      "date_reported": "2022-10-05",
+      "source": "Example Source 4",
+      "context": "Internal communications"
+    },
+    {
+      "word": "Black",
+      "category": "Racial terminology",
+      "departments": ["Multiple"],
+      "date_reported": "2022-10-05",
+      "source": "Example Source 4",
+      "context": "Internal communications"
+    },
+    {
+      "word": "BIPOC",
+      "category": "Racial terminology",
+      "departments": ["Multiple"],
+      "date_reported": "2022-10-05",
+      "source": "Example Source 4",
+      "context": "Internal communications"
+    },
+    {
+      "word": "clean energy",
+      "category": "Environmental terminology",
+      "departments": ["EPA", "DOE"],
+      "date_reported": "2021-05-12",
+      "source": "Example Source 6",
+      "context": "Environmental policy documents"
+    },
+    {
+      "word": "climate crisis",
+      "category": "Environmental terminology",
+      "departments": ["EPA", "DOI"],
+      "date_reported": "2021-05-12",
+      "source": "Example Source 6",
+      "context": "Environmental policy documents"
+    },
+    {
+      "word": "climate science",
+      "category": "Environmental terminology",
+      "departments": ["EPA", "NOAA"],
+      "date_reported": "2021-05-12",
+      "source": "Example Source 6",
+      "context": "Scientific communications"
+    }
+  ]
+}
